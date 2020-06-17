@@ -1,8 +1,8 @@
-# Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm
+# Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm (CVPR 2020)
 
 <!-- Pytorch implementation of the OGNet for outliers detection as described in [Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf).-->
 
-[Paper](https://arxiv.org/abs/2004.07657) || [CVPR CVF Archive](http://openaccess.thecvf.com/content_CVPR_2020/html/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.html) || [Supp material zip file](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zaheer_Old_Is_Gold_CVPR_2020_supplemental.zip)
+[CVPR Presentation](https://www.youtube.com/watch?v=mAfAUwFlUpU) || [Paper](https://arxiv.org/abs/2004.07657) || [CVPR CVF Archive](http://openaccess.thecvf.com/content_CVPR_2020/html/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.html) || [Supp material zip file](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zaheer_Old_Is_Gold_CVPR_2020_supplemental.zip) || [Ped2 Results Video](https://youtu.be/59Lqkkyy9bQ)
 
 ![img1](https://github.com/xaggi/OGNet/blob/master/imgs/OGNet_architect.png)
 
